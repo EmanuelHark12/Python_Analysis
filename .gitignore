@@ -1,2 +1,3 @@
 .analysis_venv
 .data
+*__pycache__
